@@ -1,0 +1,14 @@
+{
+  "name": "Roll The Dice",
+  "short_name": "Roll Dice",
+  "description": "Roll any number of d4, d6, d8, d10, d12, d20 or d100 dice.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2a0004",
+  "theme_color": "#2a0004",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
